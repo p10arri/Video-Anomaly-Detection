@@ -3,5 +3,6 @@ Non-maximum suppression is an integral part of the object detection pipeline. Fi
 with a significant overlap (using a pre-defined threshold) with M are suppressed. This process is recursively applied on the remaining boxes. Soft-NMS is an algorithm which decays the detection scores of all other objects
 as a continuous function of their overlap with M.
 
-![Pseudo-code](https://github.com/p10arri/Video-Anomaly-Detection/Soft-NMS/pseudo-code.png?raw=true)
+![Pseudo-code]!(https://user-images.githubusercontent.com/92929846/146601937-cc97a877-0439-40a7-abfc-69e47d45aa22.PNG)
+
 
