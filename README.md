@@ -26,4 +26,3 @@ The goal is to obtain bounding boxes in the 13 central pictures of the test set.
 Here all the papers we have used for the project.
   - Unsupervised Pixel-wise Hyperspectral Anomaly Detection via Autoencoding Adversarial Networks [https://arxiv.org/pdf/2101.08827.pdf]
   - Ensemble and Random Collaborative Representation-Based Anomaly Detector for Hyperspectral Imagery[https://arxiv.org/pdf/2101.01976.pdf]
-  - Soft-NMS -- Improving Object Detection With One Line of Code [https://arxiv.org/abs/1704.04503]
